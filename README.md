@@ -1,1 +1,1 @@
-# Linux
+# macOS profile
